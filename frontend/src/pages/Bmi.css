@@ -1,0 +1,26 @@
+.bmiCard{
+    background-image: url('https://33vzb20fp7928ouv118pebky-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/fruit-salads-in-plate-1640774-1024x683.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.bmiDiv{
+    /* margin-top: 20%; */
+    padding: 20px;
+}
+.gCard{
+    background: #FF416C;
+	background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+	background: linear-gradient(to right, #FF4B2B, #FF416C);
+}
+
+button.ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+    /* margin-bottom: 5px; */
+    margin-top: 14px;
+    width: 100%;
+}
+button.ghost :hover{
+    background-color: white;
+}

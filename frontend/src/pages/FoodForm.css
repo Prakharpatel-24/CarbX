@@ -1,0 +1,9 @@
+/* Styling of adding food item form */
+.mainCard {
+  justify-content: center;
+  padding-top: 10vh;
+  padding-bottom: 14vh;
+}
+.rowCenter {
+  justify-content: center;
+}
