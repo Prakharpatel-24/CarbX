@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/81757795/187256932-4e935e45-850e-4d3f-ad30-dc5195881073.gif" height="300"/>
 
-This is a Web project which helps the people to stay fit and healthy by tracking their nutrients intake, and also to check their BMI status.
+This is an ongoing Web project which helps the people to stay fit and healthy by tracking their nutrients intake, and also to check their BMI status.
 
 _**FEATURES:**_
 - Catalogue of food items with pictures and nutrient composition.
